@@ -1,0 +1,57 @@
+ h1{
+   color:rgb(1, 1, 2)
+ } 
+/*  *{
+   border:solid;
+  }
+*/
+
+p,h2{
+    text-align: center; 
+ }
+
+.header{
+    background-color: slateblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.line{
+    background-color: midnightblue;
+    color: mintcream;
+}
+
+.paper{
+    background-color: cornflowerblue;
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.organ{
+  background-color: green;
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+} 
+
+.happy{
+   background-color: rgb(255, 230, 0);
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+
+.orange{
+    background-color: coral;
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+
+.red{
+   background-color: crimson;
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
